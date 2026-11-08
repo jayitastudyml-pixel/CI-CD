@@ -18,4 +18,3 @@ if __name__ == "__main__":
     print("Subtraction:", subtract(5, 3))
     print("Multiplication:", multi(5, 3))
     print("Division:", divide(6, 3))
-
